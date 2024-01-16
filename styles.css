@@ -48,6 +48,9 @@ main {
     font-family: Josefin Sans;
     font-size: 4vw;
     font-weight: 700;
+    
+    height: 16vh;
+    width: 38vw;
 
     background: linear-gradient(to right, #7300ac, #b700ff, #d70eff, rgb(205, 53, 255), #a600ff, #aa00ff, #7300ac);
     background-size: 400% 100%;
